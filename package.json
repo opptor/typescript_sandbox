@@ -1,0 +1,19 @@
+{
+  "name": "typescript_sandbox",
+  "version": "1.0.0",
+  "description": "TypeScript Setup with some demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opptor/typescript_sandbox.git"
+  },
+  "author": "Torsten Oppermann <oppermann.torsten@googlemail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opptor/typescript_sandbox/issues"
+  },
+  "homepage": "https://github.com/opptor/typescript_sandbox#readme"
+}
